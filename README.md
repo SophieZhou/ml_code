@@ -1,3 +1,3 @@
 # ml_code
 
-Some codes are written referred to webs
+Some codes are from webs
